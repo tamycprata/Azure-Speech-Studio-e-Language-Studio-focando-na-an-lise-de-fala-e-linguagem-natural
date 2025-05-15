@@ -1,1 +1,3 @@
 # Azure-Speech-Studio-e-Language-Studio-focando-na-an-lise-de-fala-e-linguagem-natural
+
+Interessante o aprendizado. Mas o recurso não conseguiu ler a musica inteira...
