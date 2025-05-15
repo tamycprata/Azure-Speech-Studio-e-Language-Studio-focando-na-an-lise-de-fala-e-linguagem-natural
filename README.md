@@ -1,0 +1,1 @@
+# Azure-Speech-Studio-e-Language-Studio-focando-na-an-lise-de-fala-e-linguagem-natural
